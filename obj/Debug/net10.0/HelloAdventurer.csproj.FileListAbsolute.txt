@@ -1,0 +1,14 @@
+C:\Users\s37811\HelloAdventurer\bin\Debug\net10.0\HelloAdventurer.exe
+C:\Users\s37811\HelloAdventurer\bin\Debug\net10.0\HelloAdventurer.deps.json
+C:\Users\s37811\HelloAdventurer\bin\Debug\net10.0\HelloAdventurer.runtimeconfig.json
+C:\Users\s37811\HelloAdventurer\bin\Debug\net10.0\HelloAdventurer.dll
+C:\Users\s37811\HelloAdventurer\bin\Debug\net10.0\HelloAdventurer.pdb
+C:\Users\s37811\HelloAdventurer\obj\Debug\net10.0\HelloAdventurer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s37811\HelloAdventurer\obj\Debug\net10.0\HelloAdventurer.AssemblyInfoInputs.cache
+C:\Users\s37811\HelloAdventurer\obj\Debug\net10.0\HelloAdventurer.AssemblyInfo.cs
+C:\Users\s37811\HelloAdventurer\obj\Debug\net10.0\HelloAdventurer.csproj.CoreCompileInputs.cache
+C:\Users\s37811\HelloAdventurer\obj\Debug\net10.0\HelloAdventurer.dll
+C:\Users\s37811\HelloAdventurer\obj\Debug\net10.0\refint\HelloAdventurer.dll
+C:\Users\s37811\HelloAdventurer\obj\Debug\net10.0\HelloAdventurer.pdb
+C:\Users\s37811\HelloAdventurer\obj\Debug\net10.0\HelloAdventurer.genruntimeconfig.cache
+C:\Users\s37811\HelloAdventurer\obj\Debug\net10.0\ref\HelloAdventurer.dll
